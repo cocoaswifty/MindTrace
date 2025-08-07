@@ -19,8 +19,8 @@
 - [x] **設定版本控制**
     - [x] 建立 `.gitignore` 檔案，忽略 `node_modules`, `dist` 等。
     - [ ] 將初始專案推送到 GitHub Repository。
-- [ ] **建立專案結構**
-    - [ ] 規劃 `src` 目錄結構 (e.g., `components`, `scenes`, `utils`, `assets`)。
+- [x] **建立專案結構**
+    - [x] 規劃 `src` 目錄結構 (e.g., `components`, `scenes`, `utils`, `assets`)。
 
 ---
 
