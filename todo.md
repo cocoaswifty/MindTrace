@@ -6,9 +6,9 @@
 
 ## 階段一：專案初始化與基礎設定 (Milestone 1: Project Setup)
 
-- [ ] **初始化專案**
-    - [ ] 使用 `Vite` + `React` (TypeScript 模板) 建立專案。
-    - [ ] `npm install` 安裝基本依賴。
+- [x] **初始化專案**
+    - [x] 使用 `Vite` + `React` (TypeScript 模板) 建立專案。
+    - [x] `npm install` 安裝基本依賴。
 - [ ] **整合樣式方案**
     - [ ] 安裝與設定 `Tailwind CSS`。
     - [ ] 建立基礎的樣式設定檔 `tailwind.config.js`。
