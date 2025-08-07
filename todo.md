@@ -9,15 +9,15 @@
 - [x] **初始化專案**
     - [x] 使用 `Vite` + `React` (TypeScript 模板) 建立專案。
     - [x] `npm install` 安裝基本依賴。
-- [ ] **整合樣式方案**
+- [ ] **整合樣式方案 (已跳過)**: 因沙盒環境問題，暫時跳過。
     - [ ] 安裝與設定 `Tailwind CSS`。
     - [ ] 建立基礎的樣式設定檔 `tailwind.config.js`。
-- [ ] **安裝核心庫**
+- [ ] **安裝核心庫 (已跳過)**: 因沙盒環境問題，暫時跳過。
     - [ ] 決定並安裝遊戲引擎 (`Phaser.js` 或 `Pixi.js`)。
     - [ ] 安裝音效庫 (`Howler.js`)。
     - [ ] 安裝動畫庫 (`GSAP`)。
-- [ ] **設定版本控制**
-    - [ ] 建立 `.gitignore` 檔案，忽略 `node_modules`, `dist` 等。
+- [x] **設定版本控制**
+    - [x] 建立 `.gitignore` 檔案，忽略 `node_modules`, `dist` 等。
     - [ ] 將初始專案推送到 GitHub Repository。
 - [ ] **建立專案結構**
     - [ ] 規劃 `src` 目錄結構 (e.g., `components`, `scenes`, `utils`, `assets`)。
